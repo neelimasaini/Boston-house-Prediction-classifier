@@ -36,7 +36,7 @@ MEDV - Median value of owner-occupied homes in $1000's is changed into categoric
 
 and if house prices are less than 2400 , it is classified as class 0 .
 
-We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Linear Regression, Lasso, Ridge, Elastic net, Polynomial regression model to find the model with the highest accuracy and measured the accuracy through different paramters as MSE,RMSE etc.
+We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Logistic Regression, SVM with liner kernel, SVM with RBF kernel, SVM with Poly kernel, SVM with Hyper Paramter learning, Naive based classifer,KNN Classifier model to find the model with the highest accuracy and measured the accuracy through classification report and confusion matrix.
 
 The data set for the same is uploaded as Boston_catg.csv
 
