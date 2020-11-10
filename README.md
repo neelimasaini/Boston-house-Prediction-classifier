@@ -38,7 +38,7 @@ and if house prices are less than 2400 , it is classified as class 0 .
 
 We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Linear Regression, Lasso, Ridge, Elastic net, Polynomial regression model to find the model with the highest accuracy and measured the accuracy through different paramters as MSE,RMSE etc.
 
-The data set for the same is uploaded as BOSTON.csv
+The data set for the same is uploaded as Boston_catg.csv
 
 The Notebook for code is .ipnb file
 
